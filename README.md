@@ -1,5 +1,5 @@
 # Jogo Encaixe Palavras
- - Jogo de quebra cabeça, desenvolvido em csharp, .
+ - Jogo de quebra cabeça, desenvolvido em csharp.
    
 # Redes Sociais:
 - https://www.instagram.com/trechosgame/
